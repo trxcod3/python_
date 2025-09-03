@@ -8,7 +8,6 @@ movieDescription = """
 muito consagrado na industria
 """
 
-
 print(movieName)
 
 # 1 - Multiplicação de strings
